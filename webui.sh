@@ -44,7 +44,7 @@ fi
 # python3 executable
 if [[ -z "${python_cmd}" ]]
 then
-    python_cmd="python3"
+    python_cmd="/home/vcauthon/anaconda3/envs/stable-diffusion-webui/bin/python"
 fi
 
 # git executable
