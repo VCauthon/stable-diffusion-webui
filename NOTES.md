@@ -22,7 +22,7 @@ Pages where models can be retrieved:
 
 Setting a concrete model:
 1. Download: https://civitai.com/models/260267/animagine-xl-v3
-2. 
+2. Load all models into: [/models/Stable-diffusion/](/models/Stable-diffusion/)
 
 ---
 
